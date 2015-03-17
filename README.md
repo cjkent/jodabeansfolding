@@ -15,9 +15,12 @@ Editor -> Code Folding -> Collapse by default: Custom folding regions
 
 Installation
 ------------
-The plugin isn't available in the main IntelliJ repository and must be installed manually. Download
-[the jar](https://github.com/cjkent/jodabeansfolding/blob/master/jodabeansfolding.jar?raw=true) from Github and
-choose "Install plugin from disk" from the plugins section of the settings dialog.
+The plugin is available in the IntelliJ plugin repository and can be installed from the Plugins section of the 
+Preferences dialog.
+
+It can also be installed manually, To perform a manual installation, download [the jar]
+(https://github.com/cjkent/jodabeansfolding/blob/master/jodabeansfolding.jar?raw=true)
+from Github and choose "Install plugin from disk" from the plugins section of the preferences dialog.
 
 You might have to close and reopen the files in your editor the first time you restart after installing the plugin
 in order for it to automatically fold the generated code.
